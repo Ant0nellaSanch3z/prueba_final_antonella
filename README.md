@@ -1,5 +1,5 @@
 # prueba_final
-1.-Evans Acuña
+1.- Evans Acuña
 2.-
 3.-
 4.-
@@ -10,7 +10,7 @@
 9.-
 10.-
 11.-
-12.-
+12.- Nicolas Mesa
 13.-
 14.-
 15.-
@@ -36,11 +36,11 @@
 35.-
 36.-
 37.-
-38.- 
+38.-
 39.- Sebastian Pereira
 40.-
 41.-
 42.-
 43.-
 44.-
-45.- Liza Molina 
+45.- Profesora Liza Molina

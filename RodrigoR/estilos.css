@@ -1,20 +1,35 @@
 h1 {
     font-size: 25px;
     font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    text-shadow: 3px 4px 5px #020202;
 }
 
 h2,label {
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
     margin: 10px;
+    text-shadow: 0px 0px 5px #020202;
+    color: #fff;
 }
 
 p {
+    color: #fff;
     font-size: 22px;
     font-family: Arial, Helvetica, sans-serif;
     margin: 10px;
     padding: 15px;
+    text-shadow: 0px 0px 4px #020202ea;
 }
+
+.ParrafoF {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px;
+    padding: 15px;
+    margin-top: 100px;
+}
+
 .barranavegacion {
     font-family: 'Arial', sans-serif;
     display: flex;
@@ -23,11 +38,11 @@ p {
     align-items: center;
     margin-top: 10px;
     margin-bottom: 10px;
-    background-color: #92d2fd;
+    background-color: #74c8ff8e;
 }
 
 a {
-    color: #020202;
+    color: #fffdfd;
     text-decoration: none;
     font-size: 18px;
     padding: 8px 12px;
@@ -35,25 +50,28 @@ a {
     font-family: 'Arial', sans-serif;
     background-color: #47daff00;
     margin: 10px;
+    text-shadow: 0px 0px 4px #020202ea;
 }
 
 a:hover {
-    background-color: #e08484;
+    background-color: #9584e0;
     color: rgb(0, 0, 0);
 }
 
 .barranavegacion a:hover {
-    background-color: #d48888;
+    background-color: #4d4bb3;
     color: rgb(201, 201, 201);
 }
 
 #email {
     font-size: 24px;
     display: inline-block;
-    width: 350px;
+    width: 450px;
+    justify-content: flex-start;
     padding: 10px;
     border: 1px solid;
     margin: 10px;
+    margin-right: 394px;
 }
 
 #nombre, #apellido {
@@ -87,8 +105,9 @@ a:hover {
     }
 
 form {
+    margin-top: 4%;
     width: 1000px;
-    background-color: #3a8fc9;
+    background-color: #0076c596;
     box-shadow: 0 0 10px #0000006e;
 }
 
@@ -114,7 +133,7 @@ button {
 
 button:hover {
     background-color: #fff;
-    color: brown;
+    color: rgb(42, 50, 165);
 }
 
 header {
@@ -126,6 +145,28 @@ header {
 
 main {
     text-align: center;
+}
+
+#textoH {
+    margin: 50px;
+}
+
+.historiaM1 {
+    width: 53%;
+    text-align: center;
+    margin-left: 23%;
+}
+
+.historiaM2 {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    background-color: #ff98ae00;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
 }
 
 section {
@@ -158,7 +199,7 @@ footer {
 body {
     background-size: cover; 
     width: 100%;
-    background-color: #f0f0f0;
+    background-color: #f0f0f081;
     margin: 0;
     
         
@@ -173,8 +214,8 @@ img {
 }
 
 /* Imagen del fondo*/
-bodys {
-background-image: url("https://w0.peakpx.com/wallpaper/260/397/HD-wallpaper-flowers-sunset-sky-field-sunflower-yellow-flower.jpg");
+body {
+    background-image: url("https://cdn.pixabay.com/animation/2025/09/06/09/17/09-17-31-120_512.gif");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;

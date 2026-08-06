@@ -10,7 +10,7 @@
 9.-
 10.-
 11.- Rodrigo Rojas
-12.-
+12.- Nicolas Mesa
 13.-
 14.-
 15.-
@@ -29,7 +29,7 @@
 28.-
 29.-
 30.-
-31.- Bastián López
+31.-
 32.-
 33.-
 34.-
@@ -42,5 +42,5 @@
 41.-
 42.-
 43.-
-44.-
+44.- Camilo Mori
 45.- Profesora Liza Molina
